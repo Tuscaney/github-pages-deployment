@@ -9,16 +9,16 @@ This project contains a Git and Bash cheat sheet deployed to GitHub Pages.
 ## 📸 Screenshots
 
 ### GitHub Pages Settings Enabled
-![GitHub Pages Settings](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-settings.png)
+![GitHub Pages Settings](https://github.com/Tuscaney/github-pages-deployment/blob/main/screenshots/2-settings.png?raw=true)
 
 ### Cloning Repository
-![Cloning Repo](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-clone.png)
+![Cloning Repo](https://github.com/Tuscaney/github-pages-deployment/blob/main/screenshots/2-clone.png?raw=true)
 
 ### Cheat Sheet HTML File
-![Cheat Sheet HTML](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-cheatsheet.png)
+![Cheat Sheet HTML](https://github.com/Tuscaney/github-pages-deployment/blob/main/screenshots/2-cheatsheet.png?raw=true)
 
 ### Deployed GitHub Pages Site
-![Live Site](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-site.png)
+![Live Site](https://github.com/Tuscaney/github-pages-deployment/blob/main/screenshots/2-site.png?raw=true)
 
 ### Chrome DevTools with Breakpoint
-![DevTools Breakpoint](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-devtools.png)
+![DevTools Breakpoint](https://github.com/Tuscaney/github-pages-deployment/blob/main/screenshots/2-devtools.png?raw=true)
