@@ -1,13 +1,24 @@
-## Verification Screenshots
+# GitHub Pages Deployment
 
-### GitHub Pages Settings
-![Pages Settings](Screenshots/pages-settings.png)
+This project contains a Git and Bash cheat sheet deployed to GitHub Pages.
 
-### HTML Cheat Sheet File
-![HTML File](Screenshots/html-file.png)
+🔗 **Live Site:** [View Cheat Sheet](https://tuscaney.github.io/github-pages-deployment/)
 
-### Live Deployed Page
-![Live Page](Screenshots/live-page.png)
+---
 
-### Chrome DevTools Breakpoint
-![DevTools Breakpoint](Screenshots/devtools-breakpoint.png)
+## 📸 Screenshots
+
+### GitHub Pages Settings Enabled
+![GitHub Pages Settings](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-settings.png)
+
+### Cloning Repository
+![Cloning Repo](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-clone.png)
+
+### Cheat Sheet HTML File
+![Cheat Sheet HTML](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-cheatsheet.png)
+
+### Deployed GitHub Pages Site
+![Live Site](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-site.png)
+
+### Chrome DevTools with Breakpoint
+![DevTools Breakpoint](https://raw.githubusercontent.com/Tuscaney/github-pages-deployment/main/Screenshots/2-devtools.png)
